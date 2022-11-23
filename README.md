@@ -1,10 +1,10 @@
-# first_flutter
+# mfp_dex_flutter
 
-A new Flutter project.
+A decentralised cryptocurrency exchange app built with flutter. currently fetches all coin prices using coingecko api. Currently connect to metmask and custo rpc is not supported.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project can be compiled into android and ios app. webapp is also supported for this current version.
 
 A few resources to get you started if this is your first Flutter project:
 
